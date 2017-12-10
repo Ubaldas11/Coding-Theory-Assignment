@@ -1,0 +1,6 @@
+C:\Users\Jurgis\documents\visual studio 2015\Projects\CodingTheoryConvolutionalCode\CodingTheoryConvolutionalCode\bin\Release\CodingTheoryConvolutionalCode.exe.config
+C:\Users\Jurgis\documents\visual studio 2015\Projects\CodingTheoryConvolutionalCode\CodingTheoryConvolutionalCode\bin\Release\CodingTheoryConvolutionalCode.exe
+C:\Users\Jurgis\documents\visual studio 2015\Projects\CodingTheoryConvolutionalCode\CodingTheoryConvolutionalCode\bin\Release\CodingTheoryConvolutionalCode.pdb
+C:\Users\Jurgis\documents\visual studio 2015\Projects\CodingTheoryConvolutionalCode\CodingTheoryConvolutionalCode\obj\Release\CodingTheoryConvolutionalCode.exe
+C:\Users\Jurgis\documents\visual studio 2015\Projects\CodingTheoryConvolutionalCode\CodingTheoryConvolutionalCode\obj\Release\CodingTheoryConvolutionalCode.pdb
+C:\Users\Jurgis\documents\visual studio 2015\Projects\CodingTheoryConvolutionalCode\CodingTheoryConvolutionalCode\obj\Release\CodingTheoryConvolutionalCode.csprojResolveAssemblyReference.cache
